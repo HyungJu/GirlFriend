@@ -2,7 +2,7 @@
 
 int main() {
 
-int *girlfriend; //Your girlfriend is indicating this integer pointer,
+int *girlfriend; //This variable indicates your girlfriend,
 
 return 0;
 }
